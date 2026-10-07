@@ -1,0 +1,6 @@
+dataset
+output
+.vscode
+src/__pycache__/
+*.pyc
+src/extractJsonLocal.py
